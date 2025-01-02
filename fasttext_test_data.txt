@@ -1,0 +1,130 @@
+__label__negative ürünü ofis adresime istemiştim kargo firmasi ofisimin kapali olduğu saatte tanimadiğim bir kişi ismine teslim etmiş bundan dolayi ürüne yapabileceğim yorum takdir sizlerin
+__label__neutral yeni kullanmaya başladım
+__label__negative ütün geç elime ulaştı
+__label__positive tavsiye ederim
+__label__positive tavsiye ediyorum gayet kaliteli ürün
+__label__negative bi faydasını göremedim
+__label__positive denediğime değdi
+__label__positive saçlarımın uzamasında etkili oldu tavsiye ederim
+__label__positive fiyatı uygun hemde güzel bi urun öncede kullanmıştım
+__label__positive zaten kullandığım memnun kaldığım bir ürün hızlı teslimat teşekkürler
+__label__negative ürün kırık geldi
+__label__neutral erkek arkadaşıma aldım kullandı pek bi faydasını görmedi
+__label__negative tadı kötü covid sonrası koku tat kaybına iyi geldiği tavsiye üzerine aldım henüz bir değişim yok uzun vadedi olur bilmiyorum
+__label__positive c vitamini faydalı emilimi fazla olduğu ester c tercih etmek gerekiyormuş marka iyi katkısız koruyucusuz
+__label__neutral inşallah faydalı olur hediye teşekkürler
+__label__negative tadı ilk başlarda güzel sonlara doğru aşırı kötü olan bir pastil
+__label__positive bir şişe kullandım güzel etkilerini gözlemledim solgar kalitesine güveniyorum diğer vitaminlerine mutlaka şans veriniz
+__label__neutral pek etkisi yokbence etken madde yok icinde
+__label__neutral ürünü doktor tavsiyesi aldım bagışıklık kuvvetlendirici olarak kargo hızlı geldi deneyip göreceğiz
+__label__positive minik hediyeleriniz teşekkürler ürün güzel paketlenmiş hızlı teslimat
+__label__negative hıc bsey anlamadım
+__label__negative ürün gerçek değil düşük kalite olanı önce kullandıklarımız açık renkli su gibiydi kıpkırmızı şurup bir içeriğinde başta şeker yazıyor bebek alıyoruz bunu düşük kalite olanıysa yazık
+__label__neutral iki farklı türünü aldım fena değil
+__label__positive beyin damarlarimda tıkanma oldu doktor tavsiyesi aldım tikanmadan dolayı dengesizlik görme bozukluğu vardı bayağı düzeldi kullandığımdan yana dengesizliğin bayağı azaldı benim olanlara tavsiye ederim
+__label__neutral 2 haftadır pek etkisini görmedim bakalım sonunda olacak
+__label__positive begendim sedef hastalığımın azalmasını sağladı günde 2 adet kullanıyorum
+__label__positive güne dinç başlama sebebim
+__label__positive tadı güzel limonlu severek içiyoruz
+__label__negative yanlış ürün gönderildib12 siparişi verdim bunlar geldi
+__label__positive güzel kargolanmış hızlı geldi teşekkürler önce 2 yaşındaki oğluma kullanmıştım faydasını gördüm iştah açma özelliği kullanıyorum
+__label__positive vitaminlerim hızlı bir şekilde elime ulaştı son kullanma tarihlerinde bir problem yok
+__label__positive babam aldık ameliyat sonrası iyi geldi
+__label__positive gün bir kaşık iç rahatlatıyor
+__label__negative beğenmedim
+__label__neutral deniyoruz bakalım inşallah faydasını görürüz
+__label__positive solgar kalitesi tartışılmaz kesinlikle öneririm
+__label__neutral içtikten sonra içinize bir plastik kokusu sarabilir dikkat
+__label__positive temiz içerik
+__label__positive severek iciyoruz 2siseyi aldim
+__label__positive ürün iyi bağısıklık güçlendiriyor doktor tavsiyesi aldık
+__label__positive süper bir folik
+__label__positive severek kullandığım bir vitamin ben memnunum
+__label__positive ürün kaliteli2 kurumu aldımbitince yeniden alacağımteşekkür ederim
+__label__positive 5 yaşındaki kızım aldım gerçekten faydası var iştahı açıldısorunsuz yemek yiyor
+__label__positive sütüm lacmix sayesinde artti önce birçok başka takviye denedim ancak kadar iyi sonuç alamadim kisiden kisiye değişir yanitlar ben memnunum
+__label__neutral güzel paketlenmiş hızlı şeklide elime ulaştı işe yaramasını umuyorum
+__label__positive gün alıyorum memnunum
+__label__positive ilk haftadan farkı gördüm enerjik hissettim
+__label__positive buradan yorumlar üzerine almıştım memnun kaldım
+__label__positive hqrika idrar yoluna birebir 2 ay sabah aksam aldim simdi gunde bir aliyorum kurtuldumm iyki var
+__label__negative bir etkisi yok
+__label__positive çocuklar bayıldılar artık vitaminden alalım diyorlar
+__label__neutral etkisini zamanla görürüm herhalde
+__label__negative hiçbir faydası yok
+__label__positive çocuğuma faydası oldu güzel ürün
+__label__positive içerik olarak beğendiğimiz bir ürün
+__label__neutral işin doğrusu düzenli kullanmamıza rağmen bı fark goremedim
+__label__positive süper bir ürün
+__label__positive ergen kızım kullanıyoruz uyku bozukluğuna ashabi durumuna gayet iyi geliyorteşekkürler
+__label__neutral kullanıp görelim
+__label__neutral denemek aldım
+__label__neutral çözemedim ürünü iyi mi kötü
+__label__positive kullanmaya basladigimdan beri degerlerim normale dondu
+__label__positive ürünü öncede kullandım faydasını gördüm tavsiye ederim
+__label__neutral bitkisel olması sebebiyle aldım henüz yeni kullanıyorum umarım işe yarar
+__label__negative dişlerde siyahlaşma yaptı
+__label__negative tadı kötü
+__label__positive dil altı şeklinde kullanılıyor gayet güzel
+__label__positive grip soğuk algınlığına birebir
+__label__negative küçük haplar para etmez
+__label__negative cocuk dokrorumuzun önerisyle aldık tadı biraz kötü
+__label__positive yaklaşık 10 gündür kullanıyoruz canlandırıcı bir etkisi var belirgin
+__label__neutral yeni kullanmaya başladım
+__label__negative bilerekten 5 yildiz verdim sakin almayin para ziyanliği b12 le alakasi yok draje şeker bildiğin sakin sakin almayin
+__label__positive iyi ürünbegeniyorum
+__label__positive bir haftadır kullanıyorum rahatlatıyor sakinleştiriyor
+__label__negative kullanıyorum mucizevi bir etki yaratmadı
+__label__neutral ben açıkçası etkisini anlayamadım su içemediğim şişmiyordur midemde öyle tokluk hissi hemen koştum tuvalete bir etkisi olmadı
+__label__neutral boyu baya buyuk tadida guzel
+__label__positive kesinlikle işe yarıyor tavsiye ederim
+__label__positive severek kullandığımız memnun kaldığımız bir ürün
+__label__positive güzel ürün işe yarıyor
+__label__positive oğlum aldım memnun kaldık ayrıca iştah ta açıyor
+__label__negative etkili değildi maalesef
+__label__positive ürünü düzenli kullanmaya başladıktan sonra d vitaminimin düşmediğini gözlemlemiş oldum ürün günlük d vitamin ihtiyacını karşılıyor ayrıca gluten şeker içermiyor
+__label__positive içeriği temiz teşekkürler
+__label__positive uzun zamandır kullanıyorum memnunum enerjim düşüktü uyukluyordum bitti gitti
+__label__positive bebeğim seviyor sürekli kullandığımız bir ürün
+__label__positive once almıştım şimdi annem kayinvalideme aldim kısa sürede elime ulaştıkahve ayrıca teşekkür ederim
+__label__positive aç karnına sabah bir tane alıyorum özellikle marka iyi
+__label__positive fp ürünü kesin alın
+__label__positive gerçekten güzel bir vitamin
+__label__neutral fena değil
+__label__positive içince kendimi iyi hissediyorum
+__label__positive sürekli kullanıyorum faydasını gördüm
+__label__positive güzel bir takviye
+__label__negative bir işe yaramadı bende beğenmedim ürünü 2 tane almıştım bir tanesini kullanmadan çöpe attım
+__label__negative ben ürünün gerçek olduğunu düşünmüyorum bağırsaklarını mahvetti önce böyle bi sorun yaşamamıştım bir eczane haricinde vitamin almayacağım
+__label__negative ürün iç şişe kapağındaki güvenlik bantı açık içinde kocaman pamuk güvenilir gelmedi ilk deneyecektim inşallah sahte ürün değildir ayrıca yorumlarda herkes hediye kahve maske diyor konulmamış paket özensiz
+__label__neutral yeni deniyorum bakalım ins faydasi olur
+__label__neutral denemedim
+__label__positive annem aldık begendi
+__label__positive sağlam paketleme hızlı kargo teşekkürler ürün destek takviye olarak başarılı
+__label__neutral markanın d vitaminini ilk kullanacağım
+__label__positive mevsimsel hemde vitamin eksikliğinden saçlarım aşırı dökülüyordu tavsiye üzerine aldım bir haftadır düzenli kullanıyorum tek tük dökülmeye başladı hızlı sonuç verdi memnunum
+__label__positive yağlı karma gözenekli bi cildim var baya düzeltti
+__label__negative ürün kullanıldığında yeterli rli performansı vermiyorbir almam
+__label__positive kaliteli katkısız ürün
+__label__neutral kullanmaya başladım bakalım
+__label__positive düzensiz âdet gördüğüm doktor tavsiyesi aldım memnun kaldım paketlemede gayret iyiydi
+__label__positive iyi çocuklarımın ıkısınede kullanıyorum memnunum
+__label__negative malesef içindeki mentol tadı fazla sebeple kızım beğenmedi
+__label__negative pek bir faydası var diyemiyorum göremedim faydasını
+__label__negative ürün kabız yapıyor
+__label__neutral ilk deneyecez bakalım
+__label__positive güzel bir ürünfaydasını görüyorum2 şişe aldımsadece biraz büyük
+__label__positive doktor tavsiyesiyle aldım saç dökülmesi dökülme azaldı ayrıca ürün paketlemesi güzeldi
+__label__positive güzel faydalı
+__label__positive tadı güzel bebeğim kolaylıkla içti
+__label__positive kan değerlerim yerlerde olduğu saç dökülmem çoktu gece kalkıp içiyordum etkili baya azaldı
+__label__negative kapsüller büyük yutması zor
+__label__neutral etkisini göremedim düzenli kullanıyorum
+__label__positive güvendiğim marka
+__label__positive yoğunluk nedeni aşırı yorgunluk hissim vardı sabah kalkmakta bile zorlanır hale gelmiştim sonra arkadaşım ürünü tavsiye etti bende aldım şuan zindeyim iyi almışım tavsiye ederim
+__label__negative kokusu tadı kötü keşke içirebilsem
+__label__negative kötü yanlış ürün göndermiş bir memnun yok
+__label__positive kullanımı kolay bitince yine aynı marka alacağım yanındaki küçük hediyeler satıcıya teşekkür ederim
+__label__neutral henüz bir etkisini göremedik
+__label__positive tavsiye ederim dönemde çinko takviyesi asetat formunda öneriliyor
+__label__neutral aldim henüz kullanmadım
